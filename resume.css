@@ -1,0 +1,59 @@
+body{
+  background-color: #defcfc;
+}
+
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.list{
+  font-size: 1.5em;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  left: 400px;
+  top: -650px;
+  font-family: 'Quantico', sans-serif;
+}
+
+h3{
+  font-family: 'Press Start 2P', cursive;
+}
+
+.top{
+  text-align: center;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 200px;
+}
+
+
+#title{
+  font-size: 4em;
+  font-family: 'Press Start 2P', cursive;
+}
+
+
+#subtitle{
+  font-size: 3em;
+  font-family: 'Quantico', sans-serif;
+}
+
+
+#cloud{
+  position: relative;
+  top: -70px;
+}
+
+#cloud2{
+  position: relative;
+}
+
+
+#bg{
+  position: relative;
+  top: -800px;
+  padding-bottom: 0;
+  box-sizing: border-box;
+}
